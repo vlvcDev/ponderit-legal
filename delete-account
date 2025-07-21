@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Delete Your Account - Ponderit</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 600px;
+      margin: 40px auto;
+      padding: 20px;
+      line-height: 1.6;
+    }
+    h1 {
+      color: #333;
+    }
+    p {
+      font-size: 16px;
+    }
+    .email {
+      background: #f4f4f4;
+      padding: 10px;
+      font-family: monospace;
+      border-radius: 4px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Request Account & Data Deletion</h1>
+  <p>
+    If you wish to delete your account and all associated data from the Ponderit app, please contact us via email.
+  </p>
+  <p>
+    Send your request to:
+  </p>
+  <div class="email">vlvc.dev+deleteme@gmail.com</div>
+  <p>
+    In your message, please include the email address associated with your Ponderit account.
+  </p>
+  <p>
+    Your account and all related data will be permanently deleted within <strong>7 days</strong> of receiving the request.
+  </p>
+  <p>
+    If you have any questions or need further assistance, feel free to reach out.
+  </p>
+</body>
+</html>
